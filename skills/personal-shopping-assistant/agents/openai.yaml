@@ -1,0 +1,7 @@
+interface:
+  display_name: "Personal Shopping Assistant"
+  short_description: "Plans shopping and remembers preferences"
+  default_prompt: "Use $personal-shopping-assistant to prepare my next shop from my preferences and approximate home stock."
+
+policy:
+  allow_implicit_invocation: true
