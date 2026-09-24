@@ -10,7 +10,7 @@ The skills are documented in English for portability, but user-facing conversati
 
 | Skill | What it does | Version |
 |---|---|---:|
-| [Personal Shopping Assistant](skills/personal-shopping-assistant) | Plans grocery and household shopping across stores, remembers user-owned preferences and approximate stock, and compares urgent-now versus cheaper-later scenarios including order minimums and delivery fees. | 0.2.0 |
+| [Personal Shopping Assistant](skills/personal-shopping-assistant) | Plans grocery and household shopping across stores, remembers user-owned preferences and approximate stock, and compares urgent-now versus cheaper-later scenarios including order minimums and delivery fees. | 0.9.0 |
 | [Close Project Session](skills/close-project-session) | Closes long project sessions through six configurable outcomes: accepted work, durable state, continuations, process repair, a human summary, and reusable knowledge. | 1.0.0 |
 
 ## Example

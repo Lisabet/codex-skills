@@ -2,8 +2,8 @@
 name: personal-shopping-assistant
 description: Plan grocery and household shopping with durable, user-owned memory of needs, approximate stock, preferences, stores, carts, orders, and feedback. Use for building or checking shopping lists and carts, comparing stores, splitting urgent purchases now from cheaper purchases later, meeting order minimums, recording stock or delivery updates, and learning from product feedback. Do not use for medical or nutritional advice.
 metadata:
-  version: "0.2.0"
-  updated_at: "2026-09-10T18:12+03:00"
+  version: "0.9.0"
+  updated_at: "2026-09-25T02:24+03:00"
 ---
 
 # Personal Shopping Assistant

@@ -1,6 +1,6 @@
 # Personal Shopping Assistant
 
-Version 0.2.0. A portable Codex skill for planning grocery and household shopping, maintaining approximate home stock, and learning a person's product preferences over time.
+Version 0.9.0. A portable Codex skill for planning grocery and household shopping, maintaining approximate home stock, and learning a person's product preferences over time.
 
 The implementation and documentation are in English, but the assistant speaks the user's current language unless asked otherwise. It reuses relevant facts already available in the conversation or personal workspace and asks only for missing information that changes the current shopping decision.
 
