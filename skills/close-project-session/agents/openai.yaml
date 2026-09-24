@@ -1,0 +1,4 @@
+interface:
+  display_name: "Close Project Session"
+  short_description: "Configurable six-outcome project closure"
+  default_prompt: "Use $close-project-session to close this session with the full six-outcome protocol. If no closure profile is configured, recover known facts from our work, ask only about material gaps, save the confirmed profile, and continue the closure."
